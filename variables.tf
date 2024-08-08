@@ -1,6 +1,6 @@
 variable "ami_id" {
     type = string
-    default = "ami-0ff591da048329e00"
+    default = "ami-0fda60cefceeaa4d3"
     description = "passing ami value to main"
 }
 
