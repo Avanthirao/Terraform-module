@@ -12,7 +12,7 @@ variable "instance_type" {
 }
 variable "key" {
     type = string
-    default = "ec2-key"
+    default = "build-keypair"
     description = "passing the values of inttance type"
   
 }
